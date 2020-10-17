@@ -8,7 +8,7 @@
 
 *Some magic words include React, Redux, Gatsby, CSS Modules and Netlify.*
 
-*I also practice Kung Fu! — I'm an orange belt, so ask me anything.*
+*I also practice Kung Fu! — I'm an jade green belt, so ask me anything.*
 
 *Outside work I also enjoy to...*
 

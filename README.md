@@ -16,7 +16,7 @@ Watch some heartwarming [anime shows](https://myanimelist.net/anime/31964/Boku_n
 We can also chat if you'd like to know more about...   
 Practicing Kung Fu! — I'm an jade green belt, so ask me anything. :woman_cartwheeling:   
 Learning Latin - Yup, it can be considered a dead language, but it's also the root of many other languages we use daily. :memo:   
-Education - Traditional class education works, but demands learning about too many things that are then easily forgotten. How we can make it better? :jigsaw:   
+Education - Traditional class education works, but demands learning about too many things that are then easily forgotten. How can we make it better? :jigsaw:   
 
 ---
 

@@ -1,22 +1,11 @@
-### Hi there! はじめまして! 
+I'm a young Software Engineer who believes in kindness, heroes and human super powers. :sparkles:   
+Some tech-related magic words include React, React Native, Redux, Gatsby, CSS Modules, TypeScript _(sometimes)_ and Netlify.   
 
-*(that's 'hajimemashite', nice to meet you in Japanese)*! :sweat_smile: 
+I'm also deeply interested in different forms of Education, and how the human mind can learn. 🎨   
+   
+Schools today, _especially with the pandemic,_ are not as beneficial as they could, and once were. In this case, how can _we_ bring Education home? I am particularly interested in uniting [Montessori](https://sapientiamontessori.com/montessori/about-montessori/) with [Classical Education](https://classicalacademicpress.com/pages/what-is-classical-education). Not only for children and young ones, but for adults as well. I am also a strong believer that [socialization](https://welltrainedmind.com/a/what-about-socialization/?v=19d3326f3137) doesn't just happen at schools.
 
----
-
-I'm a young front-end dev who believes in kindness, heroes and human super powers. :sparkles:   
-Some magic words include React, Redux, Gatsby, CSS Modules and Netlify.   
-I am currently learning about React Native and building for Android/iOS devices too! :bowtie:   
-
-Outside work I also enjoy to...   
-Defeat some [monsters](https://store.steampowered.com/app/105600/Terraria/). :hocho:  
-Grab fresh vegetables from plants on my [farm](https://store.steampowered.com/app/413150/Stardew_Valley/). :watermelon:  
-Watch some heartwarming [anime shows](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia).  
-
-We can also chat if you'd like to know more about...   
-Practicing Kung Fu! — I'm an jade green belt, so ask me anything. :woman_cartwheeling:   
-Learning Latin - Yup, it can be considered a dead language, but it's also the root of many other languages we use daily. :memo:   
-Education - Traditional class education works, but demands learning about too many things that are then easily forgotten. How can we make it better? :jigsaw:   
+And yup, I'm also a normal human being as well. I enjoy anime, [Batsu Games](https://en.wikipedia.org/wiki/Batsu_game), Stardew Valley/Terraria and practice Kung Fu, so ask me anything you'd like. 😄
 
 ---
 
